@@ -21,7 +21,7 @@ Watch Rank é uma aplicação web para mostrar e classificar filmes e programas 
 1 - Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/ELIEZERBITTECNOURT/watch-rank.git
+git clone https://github.com/ELIEZERBITTENCOURT/watchrank-api.git
  ```
 
 2 - Instale as dependências do Python:
